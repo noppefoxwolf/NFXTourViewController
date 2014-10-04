@@ -2,6 +2,8 @@ NFXTourViewController
 =========================
 This is the ViewController that the user can see in a simple way the tour image.
 
+![](http://i.imgur.com/uFgwJp6.png)
+
 ##Installation
 >1.add your project `NFXIntroViewController.h` and `NFXIntroViewController.m`.
 
